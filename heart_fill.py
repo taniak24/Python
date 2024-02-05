@@ -33,7 +33,7 @@ def write_message():
     turtle.goto(-50, -50)
     turtle.pendown()
     turtle.color('black')
-    turtle.write("BOB?", font=("Arial", 20, "normal")) #second line
+    turtle.write("NAME?", font=("Arial", 20, "normal")) #second line
 
 def main(): 
     turtle.title("<3")
